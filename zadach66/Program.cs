@@ -3,7 +3,7 @@
     M = 4; N = 8. -> 30*/
 
 
-int m = 0, n = 0, summElement = 0;
+int m = 0, n = 0;
 
 Console.WriteLine("Введите число m: ");
 m = Convert.ToInt32(Console.ReadLine());
